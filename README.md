@@ -108,7 +108,6 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/pehgabrielvilar/pehgabrielvilar/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/pehgabrielvilar/pehgabrielvilar/output/snake.svg" alt="Snake animation" />
 
 ###
