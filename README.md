@@ -95,10 +95,10 @@
 ###
 
 <div align="left">
-  <a href="contato.pehgabrielvilar@outlook.com" target="_blank">
+  <a href="contato.pehgabrielvilar@outlook.com" target="email">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="www.instagram.com/offdropz" target="_blank">
+  <a href="https://www.instagram.com/offdropz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedrogabrielvilar/" target="_blank">
