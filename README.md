@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pehgabrielvilar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=pehgabrielvilar&locale=pt-br&mode=weekly&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=pehgabrielvilar&locale=pt-br&mode=weekly&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=pehgabrielvilar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pehgabrielvilar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true" height="174" alt="languages graph"  />
 </div>
 
 ###
@@ -108,5 +108,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/pehgabrielvilar/pehgabrielvilar/output/snake.svg" alt="Snake animation" />
 
 ###
